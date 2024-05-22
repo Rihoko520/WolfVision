@@ -12,7 +12,8 @@
                 "${workspaceFolder}/module/buff/**",
                 "${workspaceFolder}/module/filter/**",
                 "${workspaceFolder}/module/ml/**",
-                "${workspaceFolder}/utils/**"
+                "${workspaceFolder}/utils/**",
+                "/usr/include/opencv4"
             ],
             "defines": [],
             "compilerPath": "/usr/bin/g++",
